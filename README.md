@@ -1,6 +1,6 @@
-##Demo Next.js
+## Demo Next.js
 
-####Additional libraries
+#### Additional libraries
 
 - isomorphic-unfetch (https://github.com/developit/unfetch)
 - react-bootstrap (https://github.com/react-bootstrap/react-bootstrap)
