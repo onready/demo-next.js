@@ -1,5 +1,7 @@
 # Demo Next.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/onready/demo-next.js.svg)](https://greenkeeper.io/)
+
 This is a sample app that uses [Next.js](https://github.com/zeit/next.js) for server-side rendering of React components.
 
 ### What does this demo do?
