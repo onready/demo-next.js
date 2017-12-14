@@ -1,5 +1,25 @@
 ## Demo Next.js
 
+This is a sample app that uses Next.js for server-side rendering of the React components.
+
+#### How I run it?
+
+First, execute `npm install` at the root of the project to download the dependencies.
+
+Then, to run the app:
+
+- For development:
+
+    ``` 
+    npm run dev
+    ```
+- For production:
+
+    ``` 
+    npm run build
+    npm run start
+    ```
+
 #### Additional libraries
 
 - isomorphic-unfetch (https://github.com/developit/unfetch)
