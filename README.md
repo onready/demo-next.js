@@ -1,6 +1,6 @@
 ## Demo Next.js
 
-This is a sample app that uses Next.js for server-side rendering of the React components.
+This is a sample app that uses Next.js for server-side rendering of React components.
 
 #### How I run it?
 
