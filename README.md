@@ -20,7 +20,7 @@ Then, to run the app:
     npm run start
     ```
 
-###What does this demo?
+### What does this demo?
 
 This is a web application that consumes data for [ICNDb.com](http://www.icndb.com/api/).
 
