@@ -1,5 +1,6 @@
 import React from 'react';
-import {MenuItem, Nav, Navbar, NavDropdown} from 'react-bootstrap';
+import {Nav, Navbar, NavDropdown} from 'react-bootstrap';
+import MenuItemWithLink from './MenuItemWithLink';
 
 export default class NavBar extends React.Component {
 
@@ -14,9 +15,9 @@ export default class NavBar extends React.Component {
         </Navbar.Header>
         <Navbar.Collapse>
           <Nav>
-            <NavDropdown eventKey={1} title="Pages" id="basic-nav-dropdown">
-              <MenuItem eventKey={1.1} href='/'>Home</MenuItem>
-              <MenuItem eventKey={1.2} href='/search'>Search</MenuItem>
+            <NavDropdown title="Pages" id="basic-nav-dropdown">
+              <MenuItemWithLink href='/'>Home</MenuItemWithLink>
+              <MenuItemWithLink href='/search'>Search</MenuItemWithLink>
             </NavDropdown>
           </Nav>
         </Navbar.Collapse>
