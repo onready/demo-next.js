@@ -1,6 +1,6 @@
 ## Demo Next.js
 
-This is a sample app that uses Next.js for server-side rendering of React components.
+This is a sample app that uses [Next.js](https://github.com/zeit/next.js) for server-side rendering of React components.
 
 #### How I run it?
 
@@ -22,9 +22,9 @@ Then, to run the app:
 
 #### Additional libraries
 
-- isomorphic-unfetch (https://github.com/developit/unfetch)
-- react-bootstrap (https://github.com/react-bootstrap/react-bootstrap)
-- react-infinite-scroller (https://github.com/CassetteRocks/react-infinite-scroller)
-- react-scroll-up (https://github.com/milosjanda/react-scroll-up)
-- react-spinners (https://github.com/davidhu2000/react-spinners)
+- [isomorphic-unfetch](https://github.com/developit/unfetch)
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
+- [react-infinite-scroller](https://github.com/CassetteRocks/react-infinite-scroller)
+- [react-scroll-up](https://github.com/milosjanda/react-scroll-up)
+- [react-spinners](https://github.com/davidhu2000/react-spinners)
 
