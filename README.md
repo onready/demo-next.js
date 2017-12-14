@@ -20,6 +20,16 @@ Then, to run the app:
     npm run start
     ```
 
+###What does this demo?
+
+This is a web application that consumes data for [ICNDb.com](http://www.icndb.com/api/).
+
+There are two pages:
+
+- A home page (`/`), with a infinite scroll of Chuck Norris's jokes.
+- A search page (`/search`), witch has a form for search jokes by a numeric id. 
+
+
 ### Additional libraries
 
 - [isomorphic-unfetch](https://github.com/developit/unfetch)
