@@ -1,8 +1,8 @@
-## Demo Next.js
+# Demo Next.js
 
 This is a sample app that uses [Next.js](https://github.com/zeit/next.js) for server-side rendering of React components.
 
-#### How I run it?
+### How I run it?
 
 First, execute `npm install` at the root of the project to download the dependencies.
 
@@ -20,7 +20,7 @@ Then, to run the app:
     npm run start
     ```
 
-#### Additional libraries
+### Additional libraries
 
 - [isomorphic-unfetch](https://github.com/developit/unfetch)
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap)
