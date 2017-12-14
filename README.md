@@ -37,6 +37,10 @@ To build de Docker Image, run the next command:
 Then, to run the container:
 
     docker run -d -p 3000:3000 demo-next-js
+    
+Alternatively, you can pull our Docker Image:
+
+    docker pull onready/demo-next.js 
 
 ### Additional libraries
 
