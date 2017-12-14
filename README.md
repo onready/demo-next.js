@@ -10,15 +10,14 @@ Then, to run the app:
 
 - For development:
 
-    ``` 
-    npm run dev
-    ```
+      npm run dev
+
 - For production:
 
-    ``` 
-    npm run build
-    npm run start
-    ```
+      npm run build
+      npm run start
+      
+The app will be available at `localhost:3000`
 
 ### What does this demo?
 
@@ -27,7 +26,17 @@ This is a web application that consumes data for [ICNDb.com](http://www.icndb.co
 There are two pages:
 
 - A home page (`/`), with a infinite scroll of Chuck Norris's jokes.
-- A search page (`/search`), witch has a form for search jokes by a numeric id. 
+- A search page (`/search`), witch has a form for search jokes by a numeric id.
+
+### Docker
+
+To build de Docker Image, run the next command:
+    
+    docker build . -t "demo-next-js"
+
+Then, to run the container:
+
+    docker run -d -p 3000:3000 demo-next-js
 
 
 ### Additional libraries
