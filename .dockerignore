@@ -1,0 +1,9 @@
+/.circleci/
+/.node_modules/
+/.idea/
+/.git/
+/.gitignore
+/.dockerignore
+/Dockerfile
+/LICENSE.md
+/README.md
