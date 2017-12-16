@@ -17,14 +17,5 @@
     "react-infinite-scroller": "1.1.2",
     "react-scroll-up": "1.3.3",
     "react-spinners": "0.2.5"
-  },
-  "pkg": {
-    "assets": [
-      ".next",
-      "pages"
-    ],
-    "scripts": [
-      ".next/dist/**/*.js"
-    ]
   }
 }
