@@ -13,7 +13,7 @@
     "next": "4.2.1",
     "react": "16.8.6",
     "react-bootstrap": "0.31.5",
-    "react-dom": "16.2.0",
+    "react-dom": "16.8.6",
     "react-infinite-scroller": "1.1.2",
     "react-scroll-up": "1.3.3",
     "react-spinners": "0.2.5"
