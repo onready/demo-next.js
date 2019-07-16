@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "isomorphic-unfetch": "2.0.0",
-    "next": "4.2.1",
+    "next": "9.0.2",
     "react": "16.2.0",
     "react-bootstrap": "0.31.5",
     "react-dom": "16.2.0",
